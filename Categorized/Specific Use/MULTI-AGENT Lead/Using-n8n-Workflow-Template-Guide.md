@@ -66,6 +66,7 @@ The scraped data will be stored in Google Sheets:
    - Update the logic to scrape URLs and social media profiles.
 4. **Email Scraper Workflow**:
    - Check the email extraction node to ensure deduplication works as expected.
+   - Check the email extraction node to ensure deduplication works as expect
 
 ---
 
